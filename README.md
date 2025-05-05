@@ -1,0 +1,1 @@
+A personal collection of Java code snippets focused on solving logic-based problems. This repository serves as a mini vault for practicing core programming concepts, improving problem-solving skills. It includes a wide range of solutions from basic to intermediate-level challenges—perfect for coding practice, learning, and sharing with others.
