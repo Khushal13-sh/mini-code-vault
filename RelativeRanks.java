@@ -2,7 +2,7 @@
  * Problem Title: Relative Ranks
  * Difficulty: Easy
  * 
- * Problem Description:
+ * ✅ Problem Description:
  * You are given an integer array 'score' of size n, where score[i] is the score of the i-th athlete.
  * All scores are unique.
  * 
